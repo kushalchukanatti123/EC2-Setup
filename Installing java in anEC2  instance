@@ -1,0 +1,11 @@
+S1:Update and Upgrade the server
+$ sudo apt update && sudo apt upgrade -y
+
+S2:Install Java JRE
+$ sudo apt install default-jre
+
+S3:Install Java JDK
+$ sudo apt install default-jdk
+
+S4:Check the Java Version
+java -version
